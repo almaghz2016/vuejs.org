@@ -2,9 +2,9 @@
 
 This site is built with [hexo](http://hexo.io/). Site content is written in Markdown format located in `src`. Pull requests welcome!
 
-## Developing
+## التطوير
 
-Start a dev server at `localhost:4000`:
+تشغيل السرفر المحلي على `localhost:4000`:
 
 ```
 $ npm install -g hexo-cli
@@ -12,9 +12,10 @@ $ npm install
 $ hexo server
 ```
 
-## On Translations
+## الترجمات
 
-Translation for this documentation project are currently mantained in separate repositories forked from this original one.
+يتم حاليا ترجمة ترجمة مشروع التوثيق هذا في مستودعات منفصلة تم نقلها من هذا المستند الأصلي.
+
 
 ### Mandarin
 
